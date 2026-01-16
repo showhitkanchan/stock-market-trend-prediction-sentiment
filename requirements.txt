@@ -1,0 +1,5 @@
+yfinance
+nltk
+pandas
+requests
+beautifulsoup4
